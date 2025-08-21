@@ -1,0 +1,10 @@
+:root{
+    --dk-teal: #045D5D; 
+}
+
+h1{
+    font-size: 60px;
+    color: var(--dk-teal);
+    font-style: italic;
+    text-align: center;   
+}
